@@ -1,12 +1,12 @@
 [
     {"nama": "Nasi Goreng", "harga": "12000", "imageId": "nasiGoreng"},
-    {"nama": "Ayam Bakar Madu", "harga": "20000", "imageId": "ayamBakarMadu"},
+    {"nama": "Siomay", "harga": "12000", "imageId": "siomay"},
     {"nama": "Bebek Goreng", "harga": "30000", "imageId": "bebekGoreng"},
     {"nama": "Sate Kambing", "harga": "20000", "imageId": "sateKambing"},
     {"nama": "Sate Ayam", "harga": "10000", "imageId": "sateAyam"},
     {"nama": "Sop Sapi", "harga": "20000", "imageId": "sopSapi"},
     {"nama": "Lele Goreng", "harga": "12000", "imageId": "leleGoreng"},
     {"nama": "Pempek", "harga": "10000", "imageId": "pempek"},
-    {"nama": "Mie Goreng Istimewa", "harga": "15000", "imageId": "mieGorengSpesial"},
+    {"nama": "Cah Kangkung", "harga": "15000", "imageId": "cahKangkung"},
     {"nama": "Mie Rebus", "harga": "10000", "imageId": "mieRebus"}
 ]
