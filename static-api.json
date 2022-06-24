@@ -7,6 +7,6 @@
     {"nama": "Sop Sapi", "harga": "20000", "imageId": "sopSapi"},
     {"nama": "Lele Goreng", "harga": "12000", "imageId": "leleGoreng"},
     {"nama": "Pempek", "harga": "10000", "imageId": "pempek"},
-    {"nama": "Cah Kangkung", "harga": "15000", "imageId": "cahKangkung"},
+    {"nama": "Cah Kangkung", "harga": "7000", "imageId": "cahKangkung"},
     {"nama": "Mie Rebus", "harga": "10000", "imageId": "mieRebus"}
 ]
